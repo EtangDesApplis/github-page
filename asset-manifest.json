@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/github-page/static/css/main.47e10bcd.chunk.css",
+    "main.js": "/github-page/static/js/main.2f5f4fbe.chunk.js",
+    "main.js.map": "/github-page/static/js/main.2f5f4fbe.chunk.js.map",
+    "runtime-main.js": "/github-page/static/js/runtime-main.3d81935f.js",
+    "runtime-main.js.map": "/github-page/static/js/runtime-main.3d81935f.js.map",
+    "static/js/2.b5a9f54c.chunk.js": "/github-page/static/js/2.b5a9f54c.chunk.js",
+    "static/js/2.b5a9f54c.chunk.js.map": "/github-page/static/js/2.b5a9f54c.chunk.js.map",
+    "index.html": "/github-page/index.html",
+    "precache-manifest.2e0a529427a09d47548a95b1e17fecda.js": "/github-page/precache-manifest.2e0a529427a09d47548a95b1e17fecda.js",
+    "service-worker.js": "/github-page/service-worker.js",
+    "static/css/main.47e10bcd.chunk.css.map": "/github-page/static/css/main.47e10bcd.chunk.css.map",
+    "static/js/2.b5a9f54c.chunk.js.LICENSE.txt": "/github-page/static/js/2.b5a9f54c.chunk.js.LICENSE.txt",
+    "static/media/ko-fi.png": "/github-page/static/media/ko-fi.e1440a6f.png",
+    "static/media/logo.svg": "/github-page/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d81935f.js",
+    "static/js/2.b5a9f54c.chunk.js",
+    "static/css/main.47e10bcd.chunk.css",
+    "static/js/main.2f5f4fbe.chunk.js"
+  ]
+}
